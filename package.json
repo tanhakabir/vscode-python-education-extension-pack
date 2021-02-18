@@ -1,0 +1,43 @@
+{
+    "name": "python-education-extension-pack",
+    "displayName": "Python Education Extension Pack",
+    "description": "Popular Education Visual Studio Code extensions for Python",
+    "version": "0.0.1",
+    "publisher": "tanhakabir",
+        "author": {
+            "name": "Tanha Kabir",
+            "email": "tanhakabir.ca@gmail.com"
+        },
+        "license": "MIT",
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack"
+        },
+        "bugs": {
+            "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack/issues"
+        },
+        "icon": "icon.png",
+        "galleryBanner": {
+            "color": "#1e415e",
+            "theme": "dark"
+	},
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "keywords": [
+        "python",
+        "education",
+        "collaboration"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-python.python",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vsliveshare.vsliveshare-audio",
+        "goessner.mdmath",
+        "eamodio.gitlens"
+    ]
+}
