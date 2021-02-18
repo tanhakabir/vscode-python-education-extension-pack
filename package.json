@@ -2,7 +2,7 @@
     "name": "python-education-extension-pack",
     "displayName": "Python Education Extension Pack",
     "description": "Popular Visual Studio Code extensions for Python in the classroom.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "tanhakabir",
         "author": {
             "name": "Tanha Kabir",
@@ -37,6 +37,8 @@
         "ms-vscode-remote.remote-ssh",
         "ms-vsliveshare.vsliveshare",
         "ms-vsliveshare.vsliveshare-audio",
-        "goessner.mdmath"
+        "goessner.mdmath",
+        "formulahendry.code-runner",
+        "littlefoxteam.vscode-python-test-adapter"
     ]
 }
