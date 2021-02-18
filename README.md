@@ -35,3 +35,13 @@ This extension pack packages some of the top extensions that has everything you 
 - Visualize and run your Python tests in the side bar
 
 ![Python Test Explorer](https://github.com/kondratyev-nv/vscode-python-test-adapter/raw/master/img/screenshot.png)
+
+##### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- Spell checker for your code
+
+![Code Spell Checker](https://raw.githubusercontent.com/streetsidesoftware/vscode-spell-checker/master/packages/client/images/example.gif)
+
+##### [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- Highlight each column of an CSV/TSV file a different color to make it easier see the different columns
+
+![Rainbow CSV](https://i.imgur.com/6eJqeUN.png)
