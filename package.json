@@ -4,22 +4,22 @@
     "description": "Popular Visual Studio Code extensions for Python in the classroom.",
     "version": "0.1.1",
     "publisher": "tanhakabir",
-        "author": {
-            "name": "Tanha Kabir",
-            "email": "tanhakabir.ca@gmail.com"
-        },
-        "license": "MIT",
-        "repository": {
-            "type": "git",
-            "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack"
-        },
-        "bugs": {
-            "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack/issues"
-        },
-        "icon": "icon.png",
-        "galleryBanner": {
-            "color": "#1e415e",
-            "theme": "dark"
+    "author": {
+        "name": "Tanha Kabir",
+        "email": "tanhakabir.ca@gmail.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack/issues"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1e415e",
+        "theme": "dark"
 	},
     "engines": {
         "vscode": "^1.53.0"
